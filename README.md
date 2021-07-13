@@ -28,9 +28,9 @@ The following python libraries are used in this project:
 
 ## Files in the repository
 
-- Airbnb Open Data Analysis 
+- **Airbnb Open Data Analysis** 
 	As .ipynb and as .html file containing the analysis
-- ./data/Census_Block_Groups_1990/Census_Block_Groups_1990.shp
+- **./data/Census_Block_Groups_1990/Census_Block_Groups_1990.shp**
 	Census Block Groups of Seattle derived from https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::census-block-groups-1990/about
-- ./data/Seattle Airbnb Open Data/listings.csv
+- **./data/Seattle Airbnb Open Data/listings.csv**
 	Airbnb data of Seattle derived from https://www.kaggle.com/airbnb/seattle/data
