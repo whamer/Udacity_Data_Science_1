@@ -1,5 +1,7 @@
 # Airbnb Open Data Analysis
 
+![](./img/map.PNG)
+
 ## Motivation for the project
 
 The aim of this analysis as part of the Udacity Data Science Nanodegree was to find out if it possible to suggest a suitable price per accomodation using data about the host, the location and the reviews.
@@ -34,3 +36,9 @@ The following python libraries are used in this project:
 	Census Block Groups of Seattle derived from https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::census-block-groups-1990/about
 - **./data/Seattle Airbnb Open Data/listings.csv**
 	Airbnb data of Seattle derived from https://www.kaggle.com/airbnb/seattle/data
+- **./img/map.png** Screenshot of a map produced in the notebook
+
+## Acknowledgements
+
+- The [Udacity Data Science Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+ 
